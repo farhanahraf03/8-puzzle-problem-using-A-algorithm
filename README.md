@@ -3,12 +3,13 @@
 8 puzzle problem is a problem in which a matrix of 3*3 comprising of numbers(1-8) and a blank state(0) ,
 is maneuvered into a final/goal state of a different setup by moving the blank state in left/right/up/down direction.
 
-Start State - 0 1 3         Goal State - 1 2 3
-              4 2 5                      4 5 6
-              7 8 6                      7 8 0
+Start State - 0 1 3         
+              4 2 5                      
+              7 8 6                      
 
-
-
+Goal State -  1 2 3
+              4 5 6
+              7 8 0
 
 1)InitateAlgorithm - used to initate the algorithm
 2)GraphBean - data srtucture used to store the graph and display it in string.
